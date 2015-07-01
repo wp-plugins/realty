@@ -1,0 +1,394 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Realty\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-29 12:18+0300\n"
+"PO-Revision-Date: 2015-06-29 12:21+0300\n"
+"Last-Translator: plugin@bestwebsoft.com <plugin@bestwebsoft.com>\n"
+"Language-Team: bestwebsoft.com <plugin@bestwebsoft.com>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: realty.php:41
+msgid "Realty Settings"
+msgstr "Настройки Realty"
+
+#: realty.php:85
+msgid "Property Info"
+msgstr "Информация о недвижимости"
+
+#: realty.php:335
+msgid "The following files"
+msgstr "Следующие файлы: "
+
+#: realty.php:335
+msgid "or"
+msgstr "или"
+
+#: realty.php:335
+msgid ""
+"were not found in your theme directory. Please copy them from the directory"
+msgstr ""
+"не были найдены в директории вашей темы. Пожалуйста, скопируйте их из "
+"директории"
+
+#: realty.php:335
+msgid "to your theme directory to make sure Realty plugin works correctly"
+msgstr "в папку с вашей темой для корректной работы плагина Realty"
+
+#: realty.php:349 realty.php:351
+msgid "Properties"
+msgstr "Объекты недвижимости"
+
+#: realty.php:350 realty.php:352
+msgid "Property"
+msgstr "Объект недвижимости"
+
+#: realty.php:353
+msgid "Add New"
+msgstr "Добавить нового"
+
+#: realty.php:354
+msgid "Add a new Property"
+msgstr "Добавить новый объект недвижимости"
+
+#: realty.php:355
+msgid "Edit Properties"
+msgstr "Редактировать объекты недвижимости"
+
+#: realty.php:356
+msgid "New Property"
+msgstr "Новый объект недвижимости"
+
+#: realty.php:357
+msgid "View Properties"
+msgstr "Просмотреть объекты недвижимости"
+
+#: realty.php:358
+msgid "Search Properties"
+msgstr "Искать объекты недвижимости"
+
+#: realty.php:359
+msgid "No Properties found"
+msgstr "Объекты недвижимости не найдены"
+
+#: realty.php:360
+msgid "No Properties found in Trash"
+msgstr "Объекты недвижимости в корзине не найдены"
+
+#: realty.php:366
+msgid "Property types"
+msgstr "Типы недвижимости"
+
+#: realty.php:367 realty.php:368
+msgid "Property type"
+msgstr "Тип недвижимости"
+
+#: realty.php:369
+msgid "All Property types"
+msgstr "Все типы недвижимости"
+
+#: realty.php:370
+msgid "Edit Property type"
+msgstr "Редактировать тип недвижимости"
+
+#: realty.php:371
+msgid "View Property type"
+msgstr "Просмотреть тип недвижимости"
+
+#: realty.php:372
+msgid "Update Property type"
+msgstr "Обновить тип недвижимости"
+
+#: realty.php:373
+msgid "Add New Property type"
+msgstr "Добавить новый тип недвижимости"
+
+#: realty.php:374
+msgid "New Property type Name"
+msgstr "Название нового типа недвижимости"
+
+#: realty.php:375
+msgid "Parent Property type"
+msgstr "Родительский тип недвижимости"
+
+#: realty.php:376
+msgid "Parent Property type:"
+msgstr "Родительский тип недвижимости:"
+
+#: realty.php:377
+msgid "Search Property types"
+msgstr "Искать типы недвижимости"
+
+#: realty.php:378
+msgid "Popular Property types"
+msgstr "Часто используемые типы недвижимости"
+
+#: realty.php:379
+msgid "Separate Property types with commas"
+msgstr "Разделяйте типы недвижимости запятыми"
+
+#: realty.php:380
+msgid "Add or remove Property type"
+msgstr "Добавить или удалить тип недвижимости"
+
+#: realty.php:381
+msgid "Choose from the most used Property type"
+msgstr "Выбрать из часто используемых типов недвижимости"
+
+#: realty.php:382
+msgid "No Property type found"
+msgstr "Тип недвижимости не найден"
+
+#: realty.php:463
+msgid ""
+"Please, enter the correct value for custom currency field. Settings not "
+"saved."
+msgstr ""
+"Пожалуйста, введите правильное значение для поля пользовательской валюты. "
+"Настройки не сохранены."
+
+#: realty.php:466
+msgid "Settings saved."
+msgstr "Настройки сохранены. "
+
+#: realty.php:485
+msgid "All plugin settings were restored."
+msgstr "Все настройки плагина восстановлены."
+
+#: realty.php:500 realty.php:1349 realty.php:1362
+msgid "Settings"
+msgstr "Настройки"
+
+#: realty.php:501 realty.php:1363
+msgid "FAQ"
+msgstr "FAQ"
+
+#: realty.php:502
+msgid "Go PRO"
+msgstr "Перейти на PRO версию"
+
+#: realty.php:504
+msgid "Notice:"
+msgstr "Примечание: "
+
+#: realty.php:504
+msgid ""
+"The plugin's settings have been changed. In order to save them please don't "
+"forget to click the 'Save Changes' button."
+msgstr ""
+"Настройки плагина были изменены. Чтобы сохранить их, не забудьте нажать "
+"кнопку \"Сохранить изменения\". "
+
+#: realty.php:514
+msgid "Currency"
+msgstr "Валюта"
+
+#: realty.php:522
+msgid "Custom currency, for example"
+msgstr "Пользовательская валюта, например"
+
+#: realty.php:526
+msgid "Currency Position"
+msgstr "Расположение символа валюты"
+
+#: realty.php:528
+msgid "before numerals"
+msgstr "до цифр"
+
+#: realty.php:529
+msgid "after numerals"
+msgstr "после цифр"
+
+#: realty.php:533
+msgid "Unit of area"
+msgstr "Единица измерения площади"
+
+#: realty.php:540
+msgid "Custom unit area"
+msgstr "Пользовательская единица измерения площади"
+
+#: realty.php:544
+msgid "Search pages show at most"
+msgstr "Показывать на странице поиска не более"
+
+#: realty.php:552
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: realty.php:598
+msgid "Show All"
+msgstr "Показать все"
+
+#: realty.php:636 realty.php:850 realty.php:897
+msgid "Location"
+msgstr "Местоположение"
+
+#: realty.php:639 realty.php:654 realty.php:667 realty.php:688
+msgid "For example"
+msgstr "Например"
+
+#: realty.php:642
+msgid "Type"
+msgstr "Тип"
+
+#: realty.php:651 realty.php:858
+msgid "Price"
+msgstr "Цена"
+
+#: realty.php:657 realty.php:879 realty.php:914
+msgid "Bedrooms"
+msgstr "Спален"
+
+#: realty.php:664
+msgid "Latitude and longitude coordinates"
+msgstr "Координаты широты и долготы"
+
+#: realty.php:670
+msgid "Period"
+msgstr "Срок"
+
+#: realty.php:680 realty.php:870 realty.php:905
+msgid "Bathrooms"
+msgstr "Ванных"
+
+#: realty.php:685
+msgid "Floor area"
+msgstr "Единица измерения площади"
+
+#: realty.php:692
+msgid "Photos"
+msgstr "Фото"
+
+#: realty.php:693
+msgid "Add photo"
+msgstr "Добавить фотографию"
+
+#: realty.php:704 realty.php:1068
+msgid "Delete"
+msgstr "Удалить"
+
+#: realty.php:797
+msgid "Realty Widget"
+msgstr "Виджет Realty"
+
+#: realty.php:798
+msgid "Widget for displaying Sale/Rent Form."
+msgstr "Виджет для отображения формы покупки/аренды."
+
+#: realty.php:844
+msgid "For Sale"
+msgstr "Покупка"
+
+#: realty.php:845
+msgid "For Rent"
+msgstr "Аренда"
+
+#: realty.php:852 realty.php:899
+msgid "Property Type"
+msgstr "Тип недвижимости"
+
+#: realty.php:871 realty.php:880 realty.php:906 realty.php:915
+msgid "and more"
+msgstr "и более"
+
+#: realty.php:889 realty.php:924
+msgid "update filters"
+msgstr "обновить фильтр"
+
+#: realty.php:937
+msgid "back to search results"
+msgstr "Назад к результатам поиска"
+
+#: realty.php:952
+msgid "Realty Recent Items"
+msgstr "Виджет Realty \"Последние добавленные объекты\""
+
+#: realty.php:953
+msgid "Widget for displaying Recent Items block."
+msgstr "Виджет для отображения блока последних добавленных объектов"
+
+#: realty.php:985
+msgid "view all"
+msgstr "просмотреть все"
+
+#: realty.php:1005 templates/rlt-search-listing-results.php:119
+#: templates/rlt-listing.php:131
+msgid "bedrooms"
+msgstr "спальни"
+
+#: realty.php:1005 templates/rlt-search-listing-results.php:119
+#: templates/rlt-listing.php:131
+msgid "bathroom"
+msgstr "ванные"
+
+#: realty.php:1029
+msgid "Widget Title"
+msgstr "Название виджета"
+
+#: realty.php:1033
+msgid "Number of items to be displayed"
+msgstr "Количество объектов для отображения"
+
+#: realty.php:1294
+msgid "Prev"
+msgstr "Предыдущий"
+
+#: realty.php:1295
+msgid "Next"
+msgstr "Следующий"
+
+#: realty.php:1364
+msgid "Support"
+msgstr "Тех. поддержка"
+
+#: templates/rlt-search-listing-results.php:97
+msgid "sort by"
+msgstr "сортировать по"
+
+#: templates/rlt-search-listing-results.php:97
+msgid "newest"
+msgstr "дате добавления"
+
+#: templates/rlt-search-listing-results.php:97
+msgid "price"
+msgstr "цене"
+
+#: templates/rlt-nothing-found.php:2
+msgid "Nothing Found!"
+msgstr "Ничего не найдено!"
+
+#: templates/rlt-search-form.php:5
+msgid "results from"
+msgstr "результатов"
+
+#: templates/rlt-search-form.php:5
+msgid "total"
+msgstr "всего"
+
+#: templates/rlt-listing.php:31
+msgid "photos"
+msgstr "фото"
+
+#: templates/rlt-listing.php:31
+msgid "of"
+msgstr "из"
+
+#: templates/rlt-listing.php:33
+msgid "view street"
+msgstr "просмотреть улицу"
+
+#: templates/rlt-listing.php:34
+msgid "map"
+msgstr "карта"
+
+#: templates/rlt-listing.php:121
+msgid "General Information"
+msgstr "Общая информация"
